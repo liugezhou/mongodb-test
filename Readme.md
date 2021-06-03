@@ -2,8 +2,8 @@
 > 本demo项目主要为mongodb的连接基本操作，以及使用mongoose操作mongodb
 
 #### Initial
-> npm init -y
-> npm install mongodb mongoose -s
+> + npm init -y   
+> + npm install mongodb mongoose -s
 
 #### Content
 > src下分为code1和code2两个目录。   
